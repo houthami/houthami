@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hassan Outhami
-- 👀 I’m interested in the domain of IT 
+- 👀 I am interested in the IT field
 - 🌱 I’m currently learning AWS and Unreal engine 
 - 💞️ I’m looking to be an entrepreneur.
 - 📫 My personel page: **https://houthami.com/**
